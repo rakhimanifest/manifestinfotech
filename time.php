@@ -1,5 +1,6 @@
  <?php
 
+echo "";
 /* echo $time1 = '12:04:05';
  echo '<br/>';
  echo $time2 = '01:30:30'; 
