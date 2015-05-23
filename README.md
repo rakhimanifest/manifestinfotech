@@ -1,2 +1,2 @@
 # manifestinfotech
-My first repository on github
+My first project on github
