@@ -1,4 +1,4 @@
- <?php
+  <?php
 
 /* echo $time1 = '12:04:05';
  echo '<br/>';
